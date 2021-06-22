@@ -1,0 +1,42 @@
+ *{
+     margin: auto;
+     scroll-behavior: smooth;
+ }
+ header{
+     
+    color:#eeebdd;
+    background-color:#810000;
+
+
+
+ }
+ 
+ section{
+    font-size: 35px;
+}
+#anime h4{
+margin: 100px 0;
+
+
+}
+ul{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 120px;
+    font-size: 40px;
+    list-style-type: none;
+    background-color:lightblue;
+}
+
+img{
+    margin-left: 400px;
+    margin-right: 400px;
+    width: 500px;   
+    
+}
+    
+#ju h3{
+margin: 100px 0
+}
